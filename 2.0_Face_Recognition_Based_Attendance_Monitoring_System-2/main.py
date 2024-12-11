@@ -11,7 +11,7 @@ import pandas as pd
 import datetime
 import time
 import re
-import json
+import jsonclear
 
 import mysql.connector
 from mysql.connector import Error

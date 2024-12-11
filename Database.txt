@@ -1,0 +1,7 @@
+Database name: sql12751225
+Database user: sql12751225
+Database password: H7TD1FU5ug
+Port number: 3306
+Host: sql12.freesqldatabase.com
+
+SaveProfile password:smagix
